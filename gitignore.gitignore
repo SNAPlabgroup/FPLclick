@@ -1,0 +1,10 @@
+*.pyc
+*~
+*.zip
+*.tar.gz
+*.mat
+build
+doc/build
+doc/_build
+.DS_Store
+*.swp
