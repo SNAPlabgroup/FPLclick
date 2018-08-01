@@ -9,7 +9,7 @@ Get the latest code
 
 To get the latest code using git, simply type::
 
-    git clone https://github.com/SNAPsoftware/FPL_SNAPLAB.git
+    git clone https://github.com/SNAPsoftware/FPLclick.git
 
 Basic usage
 -----------
